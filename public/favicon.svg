@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Voxel">
+  <rect width="64" height="64" rx="12" fill="#0f172a" />
+  <g transform="translate(32 10)">
+    <polygon points="0,0 18,10 0,20 -18,10" fill="#60a5fa" />
+    <polygon points="-18,10 0,20 0,40 -18,30" fill="#2563eb" />
+    <polygon points="18,10 0,20 0,40 18,30" fill="#93c5fd" />
+  </g>
+</svg>
