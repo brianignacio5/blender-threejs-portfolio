@@ -1,4 +1,4 @@
-# VoxelPortfolio
+# Blender Three.js Portfolio
 
 An interactive 3D portfolio experience built with Three.js, featuring a first-person voxel-based environment where users can explore and interact with projects.
 
@@ -28,11 +28,7 @@ Before you begin, ensure you have the following installed:
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/VoxelPortfolio.git
-cd VoxelPortfolio
-```
+1. Clone the repository and open it.
 
 2. Install dependencies:
 ```bash
