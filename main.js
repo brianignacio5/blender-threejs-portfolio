@@ -102,9 +102,10 @@ const intersectObjectsNames = [
 ];
 
 const loader = new GLTFLoader();
+const portfolioModelUrl = `${import.meta.env.BASE_URL}Portfolio.glb`;
 
 loader.load(
-  "/Portfolio.glb",
+  portfolioModelUrl,
   function (glb) {
     glb.scene.traverse(function (child) {
       if (intersectObjectsNames.includes(child.name)) {
